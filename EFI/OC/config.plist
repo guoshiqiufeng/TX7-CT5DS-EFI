@@ -1629,7 +1629,7 @@
                     <key>bluetoothInternalControllerInfo</key>
                     <data>AAAAAAAAAAAAAAAAAAA=</data>
                     <key>boot-args</key>
-                    <string>-igfxblr igfxrpsc=1 gfxrst=1</string>
+                    <string>-igfxblr igfxrpsc=1 gfxrst=1 revpatch=auto,sbvmm,asset</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
@@ -2169,6 +2169,8 @@
                     <string>RuntimeCode</string>
                 </dict>
             </array>
+            <key>Unload</key>
+            <array/>
         </dict>
     </dict>
 </plist>
