@@ -1,7 +1,7 @@
 # TX7-CT5DS-EFI
 神舟 TX7-CT5DS-EFI
 
-## 系统 15.0.1 (24A348)
+## 系统 15.1 (24B83)
 ## OC 1.0.2
 ## 硬件
 - 固态：Samsung SSD 970 EVO Plus 1TB
@@ -11,6 +11,10 @@
 - wifi: Intel AC 9462
 
 ## 其他
+
+### Wifi 驱动补全
+> macos15 以上需要进行 Wifi驱动补全
+![OpenCore-Patcher-1.6.0](https://github.com/guoshiqiufeng/TX7-CT5DS-EFI/releases/download/v15.0/OpenCore-Patcher-1.6.0.pkg)
 
 ### 系统更新检测
 
