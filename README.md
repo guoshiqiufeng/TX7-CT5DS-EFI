@@ -14,7 +14,7 @@
 
 ### Wifi 驱动补全
 > macos15 以上需要进行 Wifi驱动补全
-![OpenCore-Patcher-1.6.0](https://github.com/guoshiqiufeng/TX7-CT5DS-EFI/releases/download/v15.0/OpenCore-Patcher-1.6.0.pkg)
+[OpenCore-Patcher-1.6.0](https://github.com/guoshiqiufeng/TX7-CT5DS-EFI/releases/download/v15.0/OpenCore-Patcher-1.6.0.pkg)
 
 ### 系统更新检测
 
