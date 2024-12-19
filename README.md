@@ -1,8 +1,8 @@
 # TX7-CT5DS-EFI
 神舟 TX7-CT5DS-EFI
 
-## 系统 15.1 (24B83)
-## OC 1.0.2
+## 系统 15.2 (24C101)
+## OC 1.0.3
 ## 硬件
 - 固态：Samsung SSD 970 EVO Plus 1TB
 - CPU: i5-9400
